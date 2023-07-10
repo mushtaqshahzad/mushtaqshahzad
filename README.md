@@ -55,4 +55,4 @@ Let's connect and discuss how we can work together on innovative projects!
 Looking forward to hearing from you!
 
 Best regards,  
-Mushtaq Shahzad
+Muhammad Shahzad
