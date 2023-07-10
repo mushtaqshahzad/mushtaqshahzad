@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! I'm Mushtaq Shahzad, a passionate and experienced full-stack developer specializing in JavaScript frameworks. With over 3 years of industry experience, I have honed my skills in building robust and scalable web and mobile applications. I thrive in collaborative environments and love tackling challenging projects.
+Hey there! I'm Mushtaq Shahzad, a passionate and experienced full-stack developer specializing in JavaScript frameworks. With over 4 years of industry experience, I have honed my skills in building robust and scalable web and mobile applications. I thrive in collaborative environments and love tackling challenging projects.
 
 ## Expertise
 
