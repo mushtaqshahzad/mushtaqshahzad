@@ -49,7 +49,7 @@ I am proficient in working with the following databases:
 
 I am always open to exciting opportunities and collaborations. If you would like to get in touch, you can reach me via:
 
-- **Email**: 
+- **Email**: mushtaqshahzad49@gmail.com
 
 
 Let's connect and discuss how we can work together on innovative projects!
