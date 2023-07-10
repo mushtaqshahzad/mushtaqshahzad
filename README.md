@@ -7,12 +7,14 @@ Hey there! I'm Mushtaq Shahzad, a passionate and experienced full-stack develope
 ## Expertise
 
 Here are the frameworks and technologies I specialize in:
-
-1. React
-2. Node
-3. Nest
-4. Vue
-5. Angular
+1. WordPress
+2. PHP/Laravel
+3. React
+4. Node
+5. Nest
+6. Vue
+7. Angular
+8. Next
 
 I have experience with JavaScript and TypeScript.
 
